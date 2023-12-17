@@ -10,13 +10,16 @@ Proje, Vue.js, Tailwind CSS ve Vite kullanılarak geliştirilmiştir.
 2. **Ülke Araması:**
    - Eklenebilir ayrıntılarda bulunan ülke araması, ortada bulunan search butonu ile gerçekleşmektedir.
    - Aranan şehir, popup ile ekrana sunulmaktadır.
+     
+3. **Tüm Şehirler için Tablo:**
+  - Eklenebilir ayrıntılarda bulunan şehirler tablosu mevcuttur.
 
-3. **Login Ekranı:**
+4. **Login Ekranı:**
    - Kullanıcı adı: admin, Şifre: 123 ile doğru giriş yapılabilmektedir.
    - Alan boş bırakıldığında veya yanlış girildiğinde bir uyarı alınmaktadır.
    - Giriş sağlanmazsa Weather sayfasına gidilemez.
 
-4. **Navbar ve İnput Animasyonları:**
+5. **Navbar ve İnput Animasyonları:**
    - Navbar'daki login, weather ve search butonları için ufak animasyonlar eklenmiştir.
 
 ## Kurulum
