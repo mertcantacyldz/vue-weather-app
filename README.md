@@ -1,7 +1,48 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Proje, Vue.js, Tailwind CSS ve Vite kullanılarak geliştirilmiştir.
 
-## Recommended IDE Setup
+## Özellikler
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. **Dil Değiştirme:**
+   - Sağ üst köşede bulunan 4 buton ile dil değiştirme özelliği bulunmaktadır.
+
+2. **Ülke Araması:**
+   - Eklenebilir ayrıntılarda bulunan ülke araması, ortada bulunan search butonu ile gerçekleşmektedir.
+   - Aranan şehir, popup ile ekrana sunulmaktadır.
+
+3. **Login Ekranı:**
+   - Kullanıcı adı: admin, Şifre: 123 ile doğru giriş yapılabilmektedir.
+   - Alan boş bırakıldığında veya yanlış girildiğinde bir uyarı alınmaktadır.
+   - Giriş sağlanmazsa Weather sayfasına gidilemez.
+
+4. **Navbar ve İnput Animasyonları:**
+   - Navbar'daki login, weather ve search butonları için ufak animasyonlar eklenmiştir.
+
+## Kurulum
+
+1. Projeyi bilgisayarınıza klonlayın.
+    ```bash
+    git clone <proje_url>
+    cd <proje_klasoru>
+    ```
+
+2. Gerekli paketleri yükleyin.
+    ```bash
+    npm install
+    ```
+
+3. Projeyi başlatın.
+    ```bash
+    npm run dev
+    ```
+
+4. Tarayıcıda `http://localhost:3000` adresine giderek projeyi görüntüleyin.
+
+## Katkıda Bulunma
+
+Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir konu açın veya bir çekme isteği gönderin.
+
+## Lisans
+
+Bu proje [Lisans Adı] altında lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyası](LICENSE) sayfasına bakınız.
