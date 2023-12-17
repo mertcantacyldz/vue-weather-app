@@ -1,0 +1,33 @@
+{
+    "languages": {
+        "tr": {
+          "fetch": "tr",
+          "title":" Hava Durumu Uygulaması",
+          "login" : " Giriş Yap",
+          "weather": "Hava Durumu"
+        },
+
+        "en" :{
+            "fetch": "en",
+          "title":" Weather App",
+          "login" : " Login",
+          "weather": "Weather"
+
+        },
+        "fr": {
+            "fetch": "fr",
+            "title": "Application Météo",
+            "login": "Connexion",
+            "weather": "Météo"
+          },
+          "de": {
+            "fetch": "de",
+            "title": "Wetter App",
+            "login": "Anmelden",
+            "weather": "Wetter"
+          }
+      }
+}
+   
+
+    
