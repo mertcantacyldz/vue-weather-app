@@ -1,6 +1,6 @@
 # Vue 3 + Vite
 
-Proje, Vue.js, Tailwind CSS ve Vite kullanılarak geliştirilmiştir.
+Proje, Vue.js, Tailwind CSS ve Vite kullanılarak geliştirilmiştir. Tasarım  odaklı bir proje değildir daha çok teknik olarak yapılabilecekleri gösterme amacıyla paylaşılmıştır. UI üzerine Getir Clone projeme göz gezdirebilirsiniz.
 
 ## Özellikler
 
